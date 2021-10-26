@@ -1,0 +1,37 @@
+blockquote {
+    text-align: justify;
+    margin-left: 60px;
+    margin-right: 0px;
+}
+
+q {
+    text-align: justify;
+}
+
+#voce-sabia {
+    text-align: justify;
+    border-width: 3px;
+    border-style: solid;
+    border-color: limegreen;
+
+    background-image: url(imagens/fundo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px 10px 10px 10px;
+}
+
+h2 {
+    font-family: 'Times New Roman', serif;
+    font-size: 22px;
+    color: limegreen;
+}
+
+img{
+    width: 300px;
+    border-width: 8px;
+    border-style: solid;
+    border-color: limegreen;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
